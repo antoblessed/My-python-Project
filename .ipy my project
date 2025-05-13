@@ -1,0 +1,18 @@
+Break down
+# Project Title: List Manipulation in Python
+
+## Description
+A basic Python project that demonstrates how to create and manipulate lists using built-in list methods.
+
+##  Objectives
+- Understand how to use list methods in Python
+- Practice appending, inserting, removing, and sorting data in a list
+- Learn how to use basic built-in functions like `index()` and `sort()`
+
+## 🛠 Tools and Libraries
+- Python 3.x
+- Jupyter Notebook (optional)
+- No external libraries required
+
+##  How to Run
+1. Clone the repository:
